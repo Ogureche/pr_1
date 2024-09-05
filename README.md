@@ -1,4 +1,6 @@
 # pr_1
+![ПКС_1](https://github.com/user-attachments/assets/a1e798e3-4fa5-4df3-af95-8f66ec46dceb)
+![ПКС_1 1](https://github.com/user-attachments/assets/840278b0-7f08-4a19-b7c2-886c6fcb7a6d)
 
 A new Flutter project.
 
